@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Picture of me (feat. AC Group's logo) at Point Reyes, California, circa 2022. </p>
+    <p>Picture of me (ft. AC Group's logo) at Point Reyes, California, circa 2022. </p>
    
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
