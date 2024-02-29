@@ -68,12 +68,12 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/varun-maram-044b94280/ # your LinkedIn user name
+linkedin_username: varun-maram-044b94280 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: https://scholar.google.com/citations?user=Od8JUw4AAAAJ # your Google https://scholar.google.com/citations?user=Od8JUw4AAAAJScholar ID
+scholar_userid: Od8JUw4AAAAJ # your Google https://scholar.google.com/citations?user=Od8JUw4AAAAJScholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0002-1607-9062 # your ORCID ID
+orcid_id: 0000-0002-1607-9062 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -240,7 +240,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Maram]
-  first_name: [Varun, V.]
+  first_name: [Varun, V., Sai Varun Reddy]
 
   style: apa
   locale: en

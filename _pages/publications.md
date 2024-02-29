@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: also check out dblp or Google Scholar for a more up-to-date list of publications.
+description: also check out dblp or Google Scholar for a more up-to-date list of my publications.
 nav: true
 nav_order: 1
 ---
