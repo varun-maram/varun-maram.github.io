@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Student @ <a href="https://appliedcrypto.ethz.ch/">Applied Cryptography Group</a>, <a href="https://ethz.ch/en.html"> ETH Zürich.
+subtitle: Doctoral Student @ <a href="https://appliedcrypto.ethz.ch/">Applied Cryptography Group</a>, <a href="https://ethz.ch/en.html"> ETH Zürich</a>
 
 profile:
   align: right
