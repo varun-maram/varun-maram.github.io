@@ -1,26 +1,11 @@
 {
   "basics": {
     "name": "Varun Maram",
-    "label": "",
-    "image": "",
-    "email": "",
-    "phone": "",
-    "url": "",
     "summary": "Research scientist interested in quantum-secure cryptography, and related topics.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Zurich",
+      "city": "Zürich",
       "countryCode": "CH",
-      "region": ""
     },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
   },
   "work": [
     {
@@ -35,7 +20,7 @@
     },
     {
       "name": "Visa Research",
-      "location": "Zurich, Switzerland (remote)",
+      "location": "Zürich, Switzerland (remote)",
       "position": "Research Intern",
       "url": "https://usa.visa.com/about-visa/visa-research.html",
       "startDate": "2021-06",
@@ -56,22 +41,22 @@
   ],
   "education": [
     {
-      "institution": "ETH Zurich",
-      "location": "Zurich, Switzerland",
+      "institution": "ETH Zürich",
+      "location": "Zürich, Switzerland",
       "url": "https://ethz.ch/",
       "area": "Computer Science, Applied Cryptography",
       "studyType": "Doctor of Sciences (Dr. Sc.)",
       "startDate": "2023-12",
-      "endDate": "2019-08",
+      "endDate": "2019-08"
     },
     {
-      "institution": "ETH Zurich",
-      "location": "Zurich, Switzerland",
+      "institution": "ETH Zürich",
+      "location": "Zürich, Switzerland",
       "url": "https://ethz.ch/",
       "area": "Computer Science",
       "studyType": "Master of Sciences (M. Sc.) with distinction",
       "startDate": "2017-08",
-      "endDate": "2019-05",
+      "endDate": "2019-05"
     },
     {
       "institution": "IIT Roorkee",
@@ -80,8 +65,8 @@
       "area": "Computer Science and Engineering, Mathematics (minor)",
       "studyType": "Bachelor of Technology (B. Tech.)",
       "startDate": "2013-07",
-      "endDate": "2017-05",
-    }, 
+      "endDate": "2017-05"
+    } 
   ],
   "awards": [
     {
@@ -92,7 +77,7 @@
     {
       "title": "Master's Scholarship",
       "date": "2017",
-      "awarder": "Dept. of Computer Science, ETH Zurich"
+      "awarder": "Dept. of Computer Science, ETH Zürich"
     },
     {
       "title": "Aditya Birla Scholarship (Engineering Stream)",
@@ -118,7 +103,7 @@
       "title": "Gold Medal, 13th National Science Olympiad",
       "date": "2011",
       "awarder": "Science Olympiad Foundation, Delhi"
-    },
+    }
   ]
 
   
