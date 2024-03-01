@@ -40,7 +40,7 @@
             - <a href="https://iacr.org/cryptodb/data/paper.php?pubkey=33701">PKC'24 publication</a>
             - <a href="https://eprint.iacr.org/2023/1126">PQCrypto'23 publication</a>
     - title: Research Intern
-      institution: Visa Research, USA
+      institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
       year: Jun'21 - Sep'21
       description:
         - Was part of the Advanced Cryptography team, and worked on analysing quantum (in)security of widely-used blockcipher modes of operation.
@@ -48,7 +48,7 @@
           contents:
             - <a href="https://doi.org/10.46586/tosc.v2022.i2.379-414">ToSC'22 publication</a>
     - title: Research Intern
-      institution: Adobe BigData Experience Lab, India
+      institution: <a href="https://research.adobe.com/careers/bangalore">Adobe BigData Experience Lab</a>, India
       year: May'16 - Jul'16
       description:
         - Conducted research on augmented reality in the context of digital marketing.
