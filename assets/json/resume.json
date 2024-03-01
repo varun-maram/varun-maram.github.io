@@ -13,8 +13,8 @@
       "location": "Palo Alto, USA",
       "position": "Research Intern",
       "url": "https://usa.visa.com/about-visa/visa-research.html",
-      "startDate": "2022-06",
-      "endDate": "2022-09",
+      "startDate": "Jun'22",
+      "endDate": "Sep'22",
       "summary": "Was part of the Advanced Cryptography team, and worked on constructing quantum secure public-key encryption schemes in the standard (non-idealised) model.",
       "highlights": ["PKC'24 publication", "PQCrypto'23 publication"]
     },
@@ -23,8 +23,8 @@
       "location": "Zürich, Switzerland (remote)",
       "position": "Research Intern",
       "url": "https://usa.visa.com/about-visa/visa-research.html",
-      "startDate": "2021-06",
-      "endDate": "2021-09",
+      "startDate": "Jun'21",
+      "endDate": "Sep'21",
       "summary": "Was part of the Advanced Cryptography team, and worked on analysing quantum (in)security of widely-used blockcipher modes of operation.",
       "highlights": ["ToSC'22 publication"] 
     },
@@ -33,8 +33,8 @@
       "location": "Bangalore, India",
       "position": "Research Intern",
       "url": "https://research.adobe.com/careers/bangalore",
-      "startDate": "2016-05",
-      "endDate": "2016-07",
+      "startDate": "May'16",
+      "endDate": "Jul'16",
       "summary": "Conducted research on augmented reality in the context of digital marketing.",
       "highlights": ["ISMAR'17 poster", "Filed 3 patents"] 
     }
@@ -46,8 +46,8 @@
       "url": "https://ethz.ch/",
       "area": "Computer Science, Applied Cryptography",
       "studyType": "Doctor of Sciences (Dr. Sc.)",
-      "startDate": "2023-12",
-      "endDate": "2019-08"
+      "startDate": "Aug'19",
+      "endDate": "Dec'23"
     },
     {
       "institution": "ETH Zürich",
@@ -55,8 +55,8 @@
       "url": "https://ethz.ch/",
       "area": "Computer Science",
       "studyType": "Master of Sciences (M. Sc.) with distinction",
-      "startDate": "2017-08",
-      "endDate": "2019-05"
+      "startDate": "Aug'17",
+      "endDate": "May'19"
     },
     {
       "institution": "IIT Roorkee",
@@ -64,8 +64,8 @@
       "url": "https://www.iitr.ac.in/",
       "area": "Computer Science and Engineering, Mathematics (minor)",
       "studyType": "Bachelor of Technology (B. Tech.)",
-      "startDate": "2013-07",
-      "endDate": "2017-05"
+      "startDate": "Jul'13",
+      "endDate": "May'17"
     } 
   ],
   "awards": [
@@ -106,26 +106,25 @@
     }
   ],
 
-  "patents":{
-     "items": [
-       {
-         "name": "Creating Targeted Content Based on Detected Characteristics of an Augmented Reality Scene",
-         "publisher": "US 10922716 B2",
-         "url": "https://patents.google.com/patent/US10922716B2"
-       },
-       {
-         "name": "Identifying Augmented Reality Visuals Influencing User Behavior in Virtual-Commerce Environments",
-         "publisher": "US 10950060 B2",
-         "url": "https://patents.google.com/patent/US10950060B2"
-       },
-       {
-         "name": "Method, Medium, and System for Product Recommendations Based on Augmented Reality Viewpoints",
-         "publisher": "US 10475103 B2",
-         "url": "https://patents.google.com/patent/US10475103B2"
-       }
-     ]
+  "publications":[
+    {
+      "name": "Creating Targeted Content Based on Detected Characteristics of an Augmented Reality Scene",
+      "publisher": "US 10922716 B2",
+      "url": "https://patents.google.com/patent/US10922716B2"
+    },
+    {
+      "name": "Identifying Augmented Reality Visuals Influencing User Behavior in Virtual-Commerce Environments",
+      "publisher": "US 10950060 B2",
+      "url": "https://patents.google.com/patent/US10950060B2"
+    },
+    {
+      "name": "Method, Medium, and System for Product Recommendations Based on Augmented Reality Viewpoints",
+      "publisher": "US 10475103 B2",
+      "url": "https://patents.google.com/patent/US10475103B2"
+    }
+  ]
 
-  }
+ 
 
 }
   
