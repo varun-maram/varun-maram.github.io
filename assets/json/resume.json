@@ -105,23 +105,27 @@
       "awarder": "Science Olympiad Foundation, Delhi"
     }
   ],
-  "publications": [
-    {
-      "name": "Creating Targeted Content Based on Detected Characteristics of an Augmented Reality Scene",
-      "publisher": "US 10922716 B2",
-      "url": "https://patents.google.com/patent/US10922716B2"
-    },
-    {
-      "name": "Identifying Augmented Reality Visuals Influencing User Behavior in Virtual-Commerce Environments",
-      "publisher": "US 10950060 B2",
-      "url": "https://patents.google.com/patent/US10950060B2"
-    },
-    {
-      "name": "Method, Medium, and System for Product Recommendations Based on Augmented Reality Viewpoints",
-      "publisher": "US 10475103 B2",
-      "url": "https://patents.google.com/patent/US10475103B2"
-    }
-  ]
-  
+
+  "patents":{
+     "items": [
+       {
+         "name": "Creating Targeted Content Based on Detected Characteristics of an Augmented Reality Scene",
+         "publisher": "US 10922716 B2",
+         "url": "https://patents.google.com/patent/US10922716B2"
+       },
+       {
+         "name": "Identifying Augmented Reality Visuals Influencing User Behavior in Virtual-Commerce Environments",
+         "publisher": "US 10950060 B2",
+         "url": "https://patents.google.com/patent/US10950060B2"
+       },
+       {
+         "name": "Method, Medium, and System for Product Recommendations Based on Augmented Reality Viewpoints",
+         "publisher": "US 10475103 B2",
+         "url": "https://patents.google.com/patent/US10475103B2"
+       }
+     ]
+
+  }
+
 }
   
