@@ -4,7 +4,7 @@
     - name: Who
       value: Varun Maram
     - name: What
-      value: Research scientist interested in quantum-secure cryptography, and related topics.
+      value: Research scientist interested in quantum-secure cryptography, and related topics
     - name: Where
       value: Zürich, Switzerland
 
@@ -13,17 +13,17 @@
   contents:
     - title: Doctor of Sciences (Dr. Sc.)
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
-      year: 08/2019 - 12/2023
+      year: Aug'19 - Dec'23
       description:
         - Computer Science, Applied Cryptography
     - title: Master of Sciences (M. Sc.) with distinction
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
-      year: 08/2017 - 05/2019
+      year: Aug'17 - May'19
       description:
         - Computer Science
     - title: Bachelor of Technology (B. Tech.)
       institution: <a href="https://www.iitr.ac.in/">IIT Roorkee</a>, India
-      year: 07/2013 - 05/2017
+      year: Jul'13 - May'17
       description:
         - Computer Science and Engineering, Mathematics (minor)    
 
@@ -32,36 +32,36 @@
   contents:
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
-      year: 06/2022 - 09/2022
+      year: Jun'22 - Sep'22
       description:
-        - Was part of the Advanced Cryptography team, and worked on constructing quantum secure public-key encryption schemes in the standard (non-idealised) model.
+        - Was part of the Advanced Cryptography team, and worked on constructing quantum secure public-key encryption schemes in the standard model.
         - title: Internship led to
           contents:
-            - <a href="https://iacr.org/cryptodb/data/paper.php?pubkey=33701">PKC'24 publication</a>,
-            - <a href="https://eprint.iacr.org/2023/1126">PQCrypto'23 publication</a>.
+            - <a href="https://iacr.org/cryptodb/data/paper.php?pubkey=33701">PKC'24 publication</a>
+            - <a href="https://eprint.iacr.org/2023/1126">PQCrypto'23 publication</a>
     - title: Research Intern
       institution: Visa Research, USA
-      year: 06/2021 - 09/2021
+      year: Jun'21 - Sep'21
       description:
         - Was part of the Advanced Cryptography team, and worked on analysing quantum (in)security of widely-used blockcipher modes of operation.
         - title: Internship led to
           contents:
-            - <a href="https://doi.org/10.46586/tosc.v2022.i2.379-414">ToSC'22 publication</a>.
+            - <a href="https://doi.org/10.46586/tosc.v2022.i2.379-414">ToSC'22 publication</a>
     - title: Research Intern
       institution: Adobe BigData Experience Lab, India
-      year: 05/2016 - 07/2016
+      year: May'16 - Jul'16
       description:
         - Conducted research on augmented reality in the context of digital marketing.
         - title: Internship led to
           contents:
-            - <a href="https://doi.org/10.1109/ISMAR-Adjunct.2017.34">ISMAR'17 poster</a>,
-            - 3 patents.        
+            - <a href="https://doi.org/10.1109/ISMAR-Adjunct.2017.34">ISMAR'17 poster</a>
+            - 3 patents        
 
 - title: Standardization Efforts
   type: time_table
   contents:
     - title: <a href="https://classic.mceliece.org/">Classic McEliece</a>
-      year: 09/2020 - present
+      year: Sep'20 - now
       description: Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category. It is also being considered for <a href="https://classic.mceliece.org/iso.html">ISO standardization</a>.
 
 - title: Selected Honors and Awards
