@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Point Reyes, California, summer of '22 (feat. Applied Cryptography Group's logo). </p>
+    <p>Point Reyes, California, summer of '22 (ft. Applied Crypto. Group's logo). </p>
    
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
