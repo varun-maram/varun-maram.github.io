@@ -15,7 +15,8 @@
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
       year: 2019 - 2023
       description:
-        - Computer Science, Applied Cryptography
+        - Computer Science
+        - Applied Cryptography
     - title: Master of Sciences (M. Sc.) with distinction
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
       year: 2017 - 2019
@@ -25,7 +26,8 @@
       institution: <a href="https://www.iitr.ac.in/">IIT Roorkee</a>, India
       year: 2013 - 2017
       description:
-        - Computer Science and Engineering, Mathematics (minor)    
+        - Computer Science and Engineering
+        - Mathematics (minor)    
 
 - title: Work Experience
   type: time_table
