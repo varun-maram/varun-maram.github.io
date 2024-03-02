@@ -13,17 +13,17 @@
   contents:
     - title: Doctor of Sciences (Dr. Sc.)
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
-      year: Aug'19 - Dec'23
+      year: 2019 - 2023
       description:
         - Computer Science, Applied Cryptography
     - title: Master of Sciences (M. Sc.) with distinction
       institution: <a href="https://ethz.ch/">ETH Zürich</a>, Switzerland
-      year: Aug'17 - May'19
+      year: 2017 - 2019
       description:
         - Computer Science
     - title: Bachelor of Technology (B. Tech.)
       institution: <a href="https://www.iitr.ac.in/">IIT Roorkee</a>, India
-      year: Jul'13 - May'17
+      year: 2013 - 2017
       description:
         - Computer Science and Engineering, Mathematics (minor)    
 
@@ -32,7 +32,7 @@
   contents:
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
-      year: Jun'22 - Sep'22
+      year: 2022 (Jun - Sep)
       description:
         - Was part of the Advanced Cryptography team, and worked on constructing quantum secure public-key encryption schemes in the standard model.
         - title: Internship led to
@@ -41,7 +41,7 @@
             - <a href="https://eprint.iacr.org/2023/1126">PQCrypto'23 publication</a>
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
-      year: Jun'21 - Sep'21
+      year: 2021 (Jun - Sep)
       description:
         - Was part of the Advanced Cryptography team, and worked on analysing quantum (in)security of widely-used blockcipher modes of operation.
         - title: Internship led to
@@ -50,6 +50,7 @@
     - title: Research Intern
       institution: <a href="https://research.adobe.com/careers/bangalore">Adobe BigData Experience Lab</a>, India
       year: May'16 - Jul'16
+      year: 2016 (May - Jul)
       description:
         - Conducted research on augmented reality in the context of digital marketing.
         - title: Internship led to
@@ -61,7 +62,7 @@
   type: time_table
   contents:
     - title: <a href="https://classic.mceliece.org/">Classic McEliece</a>
-      year: Sep'20 - now
+      year: 2020 - now
       description: Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category. It is also being considered for <a href="https://classic.mceliece.org/iso.html">ISO standardization</a>.
 
 - title: Selected Honors and Awards
