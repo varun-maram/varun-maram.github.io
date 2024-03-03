@@ -17,6 +17,9 @@ recent_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+
+
 I recently obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2022/1696). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408). 
 
 I'm a member of the team behind [Classic McEliece](https://classic.mceliece.org/), a key-encapsulation mechanism which is in the fourth round of NIST's [post-quantum cryptography standardization project](https://csrc.nist.gov/projects/post-quantum-cryptography); the scheme is being considered for [ISO standardization](https://classic.mceliece.org/iso.html) as well.
