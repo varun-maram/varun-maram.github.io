@@ -6,7 +6,7 @@
     - name: What
       value: Researcher interested in quantum-secure cryptography, and related topics
     - name: Where
-      value: Zürich, Switzerland
+      value: London, United Kingdom
 
 - title: Education
   type: time_table
@@ -32,6 +32,11 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: <a href="https://www.sandboxaq.com/">SandboxAQ</a>, UK
+      year: 2024 - now
+      description:
+        - Part of the Quantum Security Group.
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
       year: 2022 (Jun - Sep)
