@@ -44,7 +44,7 @@
         - Was part of the Advanced Cryptography team, and worked on constructing quantum secure public-key encryption schemes in the standard model.
         - title: Internship led to
           contents:
-            - <a href="https://iacr.org/cryptodb/data/paper.php?pubkey=33701">PKC'24 publication</a>
+            - <a href="https://link.springer.com/chapter/10.1007/978-3-031-57728-4_7">PKC'24 publication</a> (best paper)
             - <a href="https://eprint.iacr.org/2023/1126">PQCrypto'23 publication</a>
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
@@ -75,6 +75,9 @@
 - title: Selected Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Best Paper Award, <a href="https://pkc.iacr.org/2024/">PKC'24</a>
     - year: 2023
       items:
         - Best Paper Award, <a href="https://pkc.iacr.org/2023/program.php">PKC'23</a>
