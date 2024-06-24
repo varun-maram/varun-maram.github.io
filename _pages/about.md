@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a postdoctoral fellow in the Quantum Security Group at [SandboxAQ](https://www.sandboxaq.com/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2022/1696). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
+I am a postdoctoral fellow in the Cybersecurity Group at [SandboxAQ](https://www.sandboxaq.com/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2022/1696). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
 
 Before joining SandboxAQ, I obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) in 2023 where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I also obtained a Master's degree in computer science (with distinction) at ETH Zürich in 2019, and a Bachelor's degree in computer science and engineering (with a minor in mathematics) at [IIT Roorkee](https://www.iitr.ac.in/) in 2017. 
 
