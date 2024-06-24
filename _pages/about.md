@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ Quantum Security Group, <a href="https://www.sandboxaq.com/"> SandboxAQ </a>
+subtitle: Postdoc @ Cybersecurity Group, <a href="https://www.sandboxaq.com/"> SandboxAQ </a>
 
 profile:
   align: right
