@@ -22,7 +22,8 @@ I am a postdoctoral fellow in the Cybersecurity Group at [SandboxAQ](https://www
 
 Before joining SandboxAQ, I obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) in 2023 where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I also obtained a Master's degree in computer science (with distinction) at ETH Zürich in 2019, and a Bachelor's degree in computer science and engineering (with a minor in mathematics) at [IIT Roorkee](https://www.iitr.ac.in/) in 2017. 
 
-I'm a member of the team behind [Classic McEliece](https://classic.mceliece.org/), a key-encapsulation mechanism which is in the fourth round of NIST's [post-quantum cryptography standardization project](https://csrc.nist.gov/projects/post-quantum-cryptography); the scheme is being considered for [ISO standardization](https://classic.mceliece.org/iso.html) as well.
+I'm a member of the team behind [Classic McEliece](https://classic.mceliece.org/), a key-encapsulation mechanism which is currently being considered for [ISO standardization](https://classic.mceliece.org/iso.html), and was in the fourth round of NIST's [post-quantum cryptography standardization project](https://csrc.nist.gov/projects/post-quantum-cryptography).
+
 
 I also interned in the Advanced Cryptography team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) during the summers of 2021 (remotely from Zürich) and 2022 (in Palo Alto) where I worked on [quantum cryptanalysis of symmetric-key primitives](https://tosc.iacr.org/index.php/ToSC/article/view/9725) and [quantum security of standard model public-key encryption schemes](https://iacr.org/cryptodb/data/paper.php?pubkey=33701) respectively.
 

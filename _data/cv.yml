@@ -36,7 +36,11 @@
       institution: <a href="https://www.sandboxaq.com/">SandboxAQ</a>, UK
       year: 2024 - now
       description:
-        - Part of the Cybersecurity Group.
+        - Part of the Cybersecurity Group, and currently analyzing post-quantum versions of real-world protocols, and constructing advanced quantum-secure primitives from zkSNARKs.
+        - title: Research efforts led to
+          contents:
+            - IEEE SnP'25 publication, and <a href="https://www.youtube.com/live/gnB76DQI1GE?si=ZfelGpXQDf_fB1P7&t=8355">RWC'25 talk</a>
+        - Also contributing new features to <a href="https://www.sandboxaq.com/solutions/aqtive-guard">AQtive Guard</a>, SandboxAQ's cryptographic management product.
     - title: Research Intern
       institution: <a href="https://usa.visa.com/about-visa/visa-research.html">Visa Research</a>, USA
       year: 2022 (Jun - Sep)
@@ -70,7 +74,7 @@
   contents:
     - title: <a href="https://classic.mceliece.org/">Classic McEliece</a>
       year: 2020 - now
-      description: Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category. It is also being considered for <a href="https://classic.mceliece.org/iso.html">ISO standardization</a>.
+      description: Currently being considered for <a href="https://classic.mceliece.org/iso.html">ISO standardization</a>, and was a Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category.
 
 - title: Selected Honors and Awards
   type: time_table
