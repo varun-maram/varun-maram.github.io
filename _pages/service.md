@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-### Program Committees
+### **Program Committees**
 
 I was on the program committee for the following conference:
 
@@ -22,7 +22,7 @@ I was also a sub-reviewer for the following conferences:
 - EUROCRYPT 2026, PKC 2026, CRYPTO 2025, ASIACRYPT 2025, TCC 2025, CRYPTO 2024, ASIACRYPT 2024, EUROCRYPT 2023, CRYPTO 2021, ASIACRYPT 2021, CRYPTO 2020, CT-RSA 2020
 
 
-### Advising
+### **Advising**
 
 I supervised theses of the following students at the Department of Computer Science, ETH Zurich.
 
@@ -38,7 +38,7 @@ I supervised theses of the following students at the Department of Computer Scie
 - Oliver Tran (2021)
   - Thesis: [Exploring RSA Assumptions](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_oliver-tran.pdf)
 
-### Teaching
+### **Teaching**
 
 I was a (lead) teaching assistant for the following courses at the Department of Computer Science, ETH Zurich.
 
