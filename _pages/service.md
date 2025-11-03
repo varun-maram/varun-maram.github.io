@@ -29,7 +29,7 @@ I supervised theses of the following students at the Department of Computer Scie
 #### Undergraduate
 
 - Melanie Jauch (2023)
-  - Thesis: [Quantumania:" Three Quantum Attacks on AES-OTR’s Confidentiality and a Quantum Key-Recovery Attack on OPP](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_melanie-jauch.pdf)
+  - Thesis: [Quantumania: Three Quantum Attacks on AES-OTR’s Confidentiality and a Quantum Key-Recovery Attack on OPP](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_melanie-jauch.pdf)
   - Resulted in a [SAC'23 publication](https://link.springer.com/chapter/10.1007/978-3-031-53368-6_14).
 
 - Marc Himmelberger (2022)
