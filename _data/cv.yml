@@ -104,39 +104,39 @@
       items:
         - Gold Medal, <a href="https://sofworld.org/nso">13th National Science Olympiad</a>
 
-- title: Teaching
-  type: time_table
-  contents:
-    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=172077&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Zero-Knowledge Proofs</a>
-      year: 2022 - 2023
-      description: TA for Master's level course at Dept. of Computer Science, ETH Zürich.
-    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168951&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Seminar on Current Topics in Cryptography</a>
-      year: 2023
-      description: TA for Master's level Course at Dept. of Computer Science, ETH Zürich.
-    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157666&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Information Security</a>
-      year: 2022
-      description: TA for Bachelor's level course at Dept. of Computer Science, ETH Zürich.
-    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=150089&semkez=2021S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Applied Cryptography</a>
-      year: 2020 - 2021
-      description: (Lead) TA for Master's level course at Dept. of Computer Science, ETH Zürich.
-    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=146798&semkez=2021W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Algorithmic Game Theory</a>
-      year: 2020 - 2021
-      description: TA for Master's level course at Dept. of Computer Science, ETH Zürich.
+#- title: Teaching
+ # type: time_table
+ # contents:
+   # - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=172077&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Zero-Knowledge Proofs</a>
+   #   year: 2022 - 2023
+   #   description: TA for Master's level course at Dept. of Computer Science, ETH Zürich.
+   # - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168951&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Seminar on Current Topics in Cryptography</a>
+   #   year: 2023
+   #   description: TA for Master's level Course at Dept. of Computer Science, ETH Zürich.
+   # - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157666&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Information Security</a>
+    #  year: 2022
+   #   description: TA for Bachelor's level course at Dept. of Computer Science, ETH Zürich.
+  #  - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=150089&semkez=2021S&ansicht=LEHRVERANSTALTUNGEN&lang=en">Applied Cryptography</a>
+ #     year: 2020 - 2021
+#      description: (Lead) TA for Master's level course at Dept. of Computer Science, ETH Zürich.
+#    - title: <a href="https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=146798&semkez=2021W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Algorithmic Game Theory</a>
+#      year: 2020 - 2021
+#      description: TA for Master's level course at Dept. of Computer Science, ETH Zürich.
 
-- title: Advising
-  type: time_table
-  contents:
-    - title: Melanie Jauch (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_melanie-jauch.pdf">*"Quantumania:" Three Quantum Attacks on AES-OTR’s Confidentiality and a Quantum Key-Recovery Attack on OPP*</a>)
-      year: 2023
-      description: 
-        - Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.
-        - Thesis led to a <a href="https://link.springer.com/chapter/10.1007/978-3-031-53368-6_14">SAC'23 publication</a>
-    - title: Marc Himmelberger (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_marc-himmelberger.pdf">*Concrete IND-CCA Security of NIST PQC KEMs in the ROM*</a>)
-      year: 2022
-      description: Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.
-    - title: Oliver Tran (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_oliver-tran.pdf">*Exploring RSA Assumptions*</a>)
-      year: 2021
-      description: Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.   
+#- title: Advising
+  #type: time_table
+ # contents:
+#    - title: Melanie Jauch (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_melanie-jauch.pdf">"Quantumania:" Three Quantum Attacks on AES-OTR’s Confidentiality and a Quantum Key-Recovery Attack on OPP</a>)
+#      year: 2023
+#     description: 
+#       - Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.
+#        - Thesis led to a <a href="https://link.springer.com/chapter/10.1007/978-3-031-53368-6_14">SAC'23 publication</a>
+#    - title: Marc Himmelberger (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_marc-himmelberger.pdf">Concrete IND-CCA Security of NIST PQC KEMs in the ROM</a>)
+#      year: 2022
+#      description: Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.
+#    - title: Oliver Tran (<a href="https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/bachelors-thesis_oliver-tran.pdf">Exploring RSA Assumptions</a>)
+#      year: 2021
+#      description: Bachelor's thesis supervised at Dept. of Computer Science, ETH Zürich.   
     
 
 
