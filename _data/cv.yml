@@ -32,9 +32,15 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: <a href="https://warwick.ac.uk/fac/sci/dcs/">Department of Computer Science, University of Warwick</a>, UK
+      year: 2026 - now
+    - title: Consultant, Quantum Security
+      institution: <a href="https://www.iog.io/">Input Output (IOG)</a>, UK
+      year: 2026 - now
     - title: Postdoctoral Fellow, PQC Research Scientist
       institution: <a href="https://www.sandboxaq.com/">SandboxAQ</a>, UK
-      year: 2024 - now
+      year: 2024 - 2026
       description:
         - Part of the Cybersecurity Group, and currently analyzing post-quantum versions of real-world protocols, and constructing advanced quantum-secure primitives from zkSNARKs.
         - title: Research efforts led to

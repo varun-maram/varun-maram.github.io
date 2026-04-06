@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc @ Cybersecurity Group, <a href="https://www.sandboxaq.com/"> SandboxAQ </a>
+subtitle: Assistant Professor @ Department of Computer Science, <a href="https://warwick.ac.uk/fac/sci/dcs/"> University of Warwick </a><br>
+  Quantum Security Consultant, <a href="https://www.iog.io/"> Input Output </a><br>
 
 profile:
   align: right
@@ -18,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a postdoctoral fellow in the Cybersecurity Group at [SandboxAQ](https://www.sandboxaq.com/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2025/684). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
+I am an assistant professor of computer science at the [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/); I'm also a consultant at [Input Output (IOG)](https://www.iog.io/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2025/684). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
 
-Before joining SandboxAQ, I obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) in 2023 where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I also obtained a Master's degree in computer science (with distinction) at ETH Zürich in 2019, and a Bachelor's degree in computer science and engineering (with a minor in mathematics) at [IIT Roorkee](https://www.iitr.ac.in/) in 2017. 
+Previously, I was a postdoctoral fellow in the Cybersecurity Group at [SandboxAQ](https://www.sandboxaq.com/). I obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) in 2023 where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). I also obtained a Master's degree in computer science (with distinction) at ETH Zürich in 2019, and a Bachelor's degree in computer science and engineering (with a minor in mathematics) at [IIT Roorkee](https://www.iitr.ac.in/) in 2017. 
 
 I'm a member of the team behind [Classic McEliece](https://classic.mceliece.org/), a key-encapsulation mechanism which is currently being considered for [ISO standardization](https://classic.mceliece.org/iso.html), and was in the fourth round of NIST's [post-quantum cryptography standardization project](https://csrc.nist.gov/projects/post-quantum-cryptography).
 

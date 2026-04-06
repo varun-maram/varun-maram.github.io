@@ -11,15 +11,17 @@ toc:
 
 ### **Program Committees**
 
-I was on the program committee for the following conference:
+I was/am on the program committee (resp., editorial board) for the following conferences (resp., journals):
 
+- [PKC 2027](https://pkc.iacr.org/2025/callforpapers.php)
+- [CiC 2026](https://cic.iacr.org/board)
 - [PKC 2025](https://pkc.iacr.org/2025/callforpapers.php)
 
 #### Sub-reviewing
 
 I was also a sub-reviewer for the following conferences:
 
-- EUROCRYPT 2026, PKC 2026, CRYPTO 2025, ASIACRYPT 2025, TCC 2025, CRYPTO 2024, ASIACRYPT 2024, EUROCRYPT 2023, CRYPTO 2021, ASIACRYPT 2021, CRYPTO 2020, CT-RSA 2020
+- CRYPTO 2026, EUROCRYPT 2026, PKC 2026, CRYPTO 2025, ASIACRYPT 2025, TCC 2025, CRYPTO 2024, ASIACRYPT 2024, EUROCRYPT 2023, CRYPTO 2021, ASIACRYPT 2021, CRYPTO 2020, CT-RSA 2020
 
 
 ### **Advising**
