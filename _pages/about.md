@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Assistant Professor @ Department of Computer Science, <a href="https://warwick.ac.uk/fac/sci/dcs/"> University of Warwick </a><br>
-  Quantum Security Consultant, <a href="https://www.iog.io/"> Input Output </a><br>
+  Quantum Security Consultant @ <a href="https://www.iog.io/"> Input Output </a><br>
 
 profile:
   align: right
