@@ -80,7 +80,7 @@
   contents:
     - title: <a href="https://classic.mceliece.org/">Classic McEliece</a>
       year: 2020 - now
-      description: Currently being considered for <a href="https://classic.mceliece.org/iso.html">ISO standardization</a>, and was a Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category.
+      description: Has been <a href="https://classic.mceliece.org/iso.html">standardised</a> by ISO as part of ISO/IEC 18033-2, and was a Round 4 submission to NIST's <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">post-quantum cryptography standardization project</a> in the public-key encryption and key-establishment category.
 
 - title: Selected Honors and Awards
   type: time_table
