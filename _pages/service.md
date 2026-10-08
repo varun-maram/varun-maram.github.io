@@ -44,7 +44,7 @@ I supervised theses of the following students at the Department of Computer Scie
 
 I am currently a (co-)module organizer for the following courses at the Department of Computer Science, University of Warwick.
 
-#### Post Graduate
+#### Undergraduate
 
 - [CS260 Algorithms](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs260/) (Autumn 2026)
 
