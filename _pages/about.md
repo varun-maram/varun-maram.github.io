@@ -19,11 +19,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an assistant professor of computer science at the [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/); I'm also a consultant at [Input Output (IOG)](https://www.iog.io/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2025/684). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
+I'm an assistant professor of computer science at the [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/); I'm also a consultant at [Input Output](https://www.iog.io/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2025/684). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
 
 Previously, I was a postdoctoral fellow in the Cybersecurity Group at [SandboxAQ](https://www.sandboxaq.com/). I obtained my doctoral degree at [ETH Zürich](https://ethz.ch/en.html) in 2023 where I was part of the [Applied Cryptography Group](https://appliedcrypto.ethz.ch) and supervised by [Prof. Kenny Paterson](https://inf.ethz.ch/people/person-detail.paterson.html). During my doctoral studies, I interned in the Advanced Cryptography team at [Visa Research](https://usa.visa.com/about-visa/visa-research.html) in 2021 (remotely from Zürich) and 2022 (in Palo Alto) where I worked on [quantum cryptanalysis of symmetric-key primitives](https://tosc.iacr.org/index.php/ToSC/article/view/9725) and [quantum security of standard model public-key encryption schemes](https://iacr.org/cryptodb/data/paper.php?pubkey=33701) respectively. I also obtained a Master's degree in computer science (with distinction) at ETH Zürich in 2019, and a Bachelor's degree in computer science and engineering (with a minor in mathematics) at [IIT Roorkee](https://www.iitr.ac.in/) in 2017.
 
 My work was recognized with Best Paper Awards at the [PKC 2023](https://pkc.iacr.org/2023/) and [PKC 2024](https://pkc.iacr.org/2024/) conferences. I'm also a member of the team behind [Classic McEliece](https://classic.mceliece.org/), an ISO standard (ISO/IEC 18033-2) for post-quantum encryption (and which was in the fourth round of NIST's [post-quantum cryptography standardization project](https://csrc.nist.gov/projects/post-quantum-cryptography)).
 
 Outside work, [I](https://varun-maram.github.io/assets/img/quiz-1.jpg) [love](https://varun-maram.github.io/assets/img/quiz-2.jpg) [(pub)](https://varun-maram.github.io/assets/img/quiz-3.jpg) [quizzing](https://varun-maram.github.io/assets/img/quiz-4.jpg).
+
+<div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px;">
+
+<strong>📢 Announcement:</strong> I'm looking for strong and motivated PhD students to work with me on post-quantum cryptography and related topics. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
+
+</div>
+
 
