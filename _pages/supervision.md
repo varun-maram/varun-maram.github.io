@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-I'm recruiting PhD students to work with me on post-quantum cryptography and related areas, with an expected start in October 2027. The research topics include, but are not limited to:
+I'm recruiting PhD students to work with me on post-quantum cryptography and related areas, **with an expected start in October 2027**. The research topics include, but are not limited to:
 - generic constructions of advanced quantum-secure primitives;
 - proof techniques and frameworks in a post-quantum setting;
 - quantum cryptanalysis. 
