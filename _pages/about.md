@@ -29,7 +29,7 @@ Outside work, [I](https://varun-maram.github.io/assets/img/quiz-1.jpg) [love](ht
 
 <div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px;">
 
-<strong>📢 Announcement:</strong> I'm looking for strong and motivated PhD students to work with me on post-quantum cryptography and related topics. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
+<strong>📢 Announcement:</strong> I'm looking for strong and motivated PhD students to work with me on post-quantum cryptography and related topics, starting October 2027. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
 
 </div>
 
