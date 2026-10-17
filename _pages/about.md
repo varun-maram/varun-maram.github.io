@@ -18,6 +18,11 @@ recent_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px;">
+
+<strong>📢 Announcement:</strong> I'm looking for strong, motivated PhD students to work with me on post-quantum cryptography and related topics. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
+
+</div>
 
 I'm an assistant professor of computer science at the [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/); I'm also a consultant at [Input Output](https://www.iog.io/). My current research interests lie in quantum-resistant cryptography, with an emphasis on [provable post-quantum security of real-world cryptographic systems](https://eprint.iacr.org/2025/684). I also have a broader interest in [multi-party computation](https://eprint.iacr.org/2021/096) and [distributed systems](https://eprint.iacr.org/2020/1408).
 
@@ -27,10 +32,5 @@ My work was recognized with Best Paper Awards at the [PKC 2023](https://pkc.iacr
 
 Outside work, [I](https://varun-maram.github.io/assets/img/quiz-1.jpg) [love](https://varun-maram.github.io/assets/img/quiz-2.jpg) [(pub)](https://varun-maram.github.io/assets/img/quiz-3.jpg) [quizzing](https://varun-maram.github.io/assets/img/quiz-4.jpg).
 
-<div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px;">
-
-<strong>📢 Announcement:</strong> I'm looking for strong, motivated PhD students to work with me on post-quantum cryptography and related topics. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
-
-</div>
 
 
