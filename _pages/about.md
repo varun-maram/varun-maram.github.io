@@ -18,7 +18,7 @@ recent_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px;">
+<div style="border-left: 4px solid #d97706; background: #fff8ed; padding: 12px 18px; margin: 20px 0; border-radius: 4px; max-width: 600px; box-sizing: border-box;">
 
 <strong>📢 Announcement:</strong> I'm looking for strong, motivated PhD students to work with me on post-quantum cryptography and related topics. Please refer to my supervision <a href="https://varun-maram.github.io/supervision">webpage</a> for more details.
 
